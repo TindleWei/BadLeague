@@ -19,3 +19,5 @@ Okay
 Wtf, today still have nothing to say.
 
 Today I just get Xcode.
+
+Learn IOS now.
