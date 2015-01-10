@@ -23,3 +23,5 @@ Today I just get Xcode.
 Learn IOS now.
 
 Today fucked.
+
+Nothing today, start work.
