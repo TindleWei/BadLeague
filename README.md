@@ -1,5 +1,10 @@
 ToRead
 ======
+Bad Guy League
+3 Characters:
+1. Black Fire Fist
+2. ShitMan
+3. Slowly
 
 I Repository for me to read.
 
