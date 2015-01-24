@@ -36,3 +36,5 @@ I really want to commit a lot, but I can't.
 Keep learning today.
 
 Fuck off.
+
+Just write something.
