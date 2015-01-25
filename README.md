@@ -38,3 +38,5 @@ Keep learning today.
 Fuck off.
 
 Just write something.
+
+Bonne nuit
