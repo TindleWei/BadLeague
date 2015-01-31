@@ -40,3 +40,5 @@ Fuck off.
 Just write something.
 
 Bonne nuit
+
+Nothing New.
