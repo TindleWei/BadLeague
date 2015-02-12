@@ -1,5 +1,6 @@
-#Chapter1
-Bad Guys Comming
+#Chapter1 Bad Guys Comming
+
+###Introduction
 
 BlackFireFist hands show
 + say: we are the bad guys
@@ -8,16 +9,19 @@ BlackFireFist hands show
 + say: to balance the world
 + say: Bad guys, Assemble!
 
+------------
+
 BFF needs a inordinary gloves.
 
-I am BlackFireFist, a bad guy has superpower.
+I am **BlackFireFist**, a bad guy has superpower.
 
-This is my colleague, ShitMan.
+This is my colleague, **ShitMan**.
 
 A scientist, actually an idot.
 
-This is another colleague BeLate, who is always late.
+This is another colleague **BeLate**, who is always late.
 
 
-###theme song
+###Theme song
 `what the fuck are you talking about`
+
