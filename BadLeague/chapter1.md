@@ -9,7 +9,7 @@ BlackFireFist hands show
 + say: to balance the world
 + say: Bad guys, Assemble!
 
-------------
+***
 
 BFF needs a inordinary gloves.
 
@@ -24,4 +24,6 @@ This is another colleague **BeLate**, who is always late.
 
 ###Theme song
 `what the fuck are you talking about`
+
+`Is that important?`  
 
