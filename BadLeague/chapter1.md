@@ -1,5 +1,9 @@
 #Chapter1 Bad Guys Comming
 
+###Name Changed
+BadLeague --> Destroyers
+
+
 ###Introduction
 
 BlackFireFist hands show
