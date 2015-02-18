@@ -31,3 +31,9 @@ This is another colleague **BeLate**, who is always late.
 
 `Is that important?`  
 
+
+###Content
+I am bad guy, I know it is the war, I can't stop util we win.
+
+###Place
+1. 秘密组织基地，就是一间屋子感觉像是个秘密特工基地
