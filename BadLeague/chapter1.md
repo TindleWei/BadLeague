@@ -35,5 +35,7 @@ This is another colleague **BeLate**, who is always late.
 ###Content
 I am bad guy, I know it is the war, I can't stop util we win.
 
+武器：史特曼，黄色眼镜，黄色护腕，史型炸弹
+
 ###Place
 1. 秘密组织基地，就是一间屋子感觉像是个秘密特工基地
