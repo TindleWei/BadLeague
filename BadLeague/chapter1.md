@@ -37,7 +37,7 @@ I am bad guy, I know it's the war, we can't stop until we win.
 
 武器：史特曼，黄色眼镜，黄色护腕，史型炸弹  
 费斯特，黑色手套，能力者：黑色火焰的。
-雷特力，能力者：慢速能力。
+史楼力，能力者：慢速能力。
 
 ###Place
 工厂： 秘密组织基地，一间屋子看起来是个特工基地
@@ -61,5 +61,7 @@ I am bad guy, I know it's the war, we can't stop until we win.
 结尾：人不见了，路人甲一脸茫然。
 
 
-2. 基地
+2. 打斗：菲斯特和史楼力出场
+// 音乐响起：gode gaigai, boom,boom,boom, gode gaigai, boom,boom,boom ~
+
 
