@@ -61,7 +61,16 @@ I am bad guy, I know it's the war, we can't stop until we win.
 结尾：人不见了，路人甲一脸茫然。
 
 
-2. 打斗：菲斯特和史楼力出场
-// 音乐响起：gode gaigai, boom,boom,boom, gode gaigai, boom,boom,boom ~
-
-
+2. 打斗：菲斯特和史楼力出场。
+美国大兵：不许动，你们被捕了。
+两个背影，转过头：怎么派的人更多了，难道是我们的赏金有提高了？
+美国大兵：你们的存在对我们的威胁更大了。
+两个背影：英雄太多了，世界的平衡靠我们来维护。
+美国大兵：逮捕他们。
+// 战斗开始  音乐响起：gode gaigai, boom,boom,boom, gode gaigai, boom,boom,boom ~
+// 黑火拳三连击，打到三个人。
+美国大兵：开枪。
+史楼力：my turn.
+// 空间缓慢，空手接子弹
+更多的大兵出现
+// 黑色烟雾，boom，消失，只留下傻站的大兵们。
