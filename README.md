@@ -1,11 +1,13 @@
-ToRead
-======
-Bad Guy League
-3 Characters:
-1. Black Fire Fist
-2. ShitMan
-3. Slowly
+这是一个剧本小说《坏蛋联盟》
+================
+###原名 BadLeague
+###现名 Destroyers
 
-This is a novel record.
+###主要人物：
+火拳队长：菲斯特 BlackFist    
+史特博士：史特曼 ShitMan  
+慢速怪兽：史楼力 Slowly  
 
-啊 movie
+###主要剧情
+聚集各个反派，成立毁灭者联盟，对抗复仇者联盟和正义联盟，维护世界的平衡。
+
