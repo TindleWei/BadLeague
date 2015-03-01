@@ -1,40 +1,7 @@
 #Chapter1 Bad Guys Comming
 
-###Name Changed
-BadLeague --> Destroyers
 
-
-###Introduction
-
-BlackFireFist hands show
-+ say: we are the bad guys
-+ say: we come from darkness
-
-+ say: to balance the world
-+ say: Bad guys, Assemble!
-
-***
-
-BFF needs a inordinary gloves.
-
-I am **BlackFireFist**, a bad guy has superpower.
-
-This is my colleague, **ShitMan**.
-
-A scientist, actually an idot.
-
-This is another colleague **BeLate**, who is always late.
-
-
-###Theme song
-`what the fuck are you talking about?`
-
-`Is that important?`  
-
-
-###Content
-I am bad guy, I know it's the war, we can't stop until we win.
-
+###人物介绍
 武器：史特曼，黄色眼镜，黄色护腕，史型炸弹  
 费斯特，黑色手套，能力者：黑色火焰的。
 史楼力，能力者：慢速能力。
@@ -82,9 +49,9 @@ I am bad guy, I know it's the war, we can't stop until we win.
 菲斯特：停，到此为止，我们会回来的。  
 // 黑色烟雾，两人消失  
 
-3. 基地  
-// 菲斯特和史楼力回到基地  
-施特曼：嘿，伙计们，看看我发现了什么。
-菲斯特：又是你的新型炸弹。
-施特曼：我发现这个是黄瓜味的。  
-菲斯特：今天我们被正义联盟袭击了，不过没什么事。
+3. 基地    
+// 菲斯特和史楼力回到基地    
+施特曼：嘿，伙计们，看看我发现了什么。  
+菲斯特：又是你的新型炸弹。  
+施特曼：我发现这个是黄瓜味的。    
+菲斯特：今天我们被正义联盟袭击了，不过没什么事。  
