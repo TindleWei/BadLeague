@@ -9,6 +9,12 @@
 + 死亡回退[三级技能]:在未来感知的能力之上，在死亡时，时间倒回到若干时间之前。
 
 
+--------------------
+想起一首歌：来自GreenDay的一个前奏
+:nobody like you, everyone left you, they all out withou you, having fun.
+
+
+
 丧失围城
 ========
 
