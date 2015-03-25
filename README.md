@@ -49,4 +49,5 @@ This is another colleague **BeLate**, who is always late.
 I am bad guy, I know it's the war, we can't stop until we win.
 
 ###What's more
-Nothing
+These ideas are all god made. God put them into my mind.
+That is the chance god give me, all I should do is make it as best as I can. 
