@@ -16,3 +16,7 @@
 
 ###暗流涌动
 联合更多的反派，组成强大的联盟，狙击正义联盟与复仇者联盟。
+
+###配乐
+Two Steps From Hell, Audio Machine, X-Ray Dog, Brand X Music, Immediate Music 世界五大最顶级配乐公司。  
+他们的音乐在广告，电影领域独树一帜，音乐节奏强悍，气势磅礴，无与伦比。
