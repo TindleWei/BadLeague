@@ -1,7 +1,7 @@
-这是一个剧本小说《坏蛋联盟》
+This is A Noval called Breaks League
 ================
 ###原名 BadLeague
-###现名 Destroyers
+###原名2 Destroyers
 
 ###主要人物：
 火拳队长：菲斯特 BlackFist    
