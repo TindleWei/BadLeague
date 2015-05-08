@@ -9,9 +9,11 @@ This is A Noval called Breaks League
 慢速怪兽：史楼力 Slowly  
 
 第一季 15集
-14 ~15集 菲斯特的毁灭与重生
-第二新增人物
-Younger 腰果
+14 ~15集 菲斯特的毁灭与重生  
+15集后新增人物:
+BoneStick 骨刺
+Yogurt 腰果
+LineTime 兰特姆
 
 ###主要剧情
 聚集各个反派，成立毁灭者联盟，对抗复仇者联盟和正义联盟，维护世界的平衡。
